@@ -25,7 +25,7 @@ SECRET_KEY = '1e^$!0w5z#stp0i_t4+xdn@!g@2vwh_^ls3o83%&qbe+9*yll-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cartest.pythonanywhere.com']
 
 
 # Application definition
