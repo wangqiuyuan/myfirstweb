@@ -1,6 +1,7 @@
 from django.contrib import admin
-from .models import  Post
+from .models import User
+from .models import Case
 
-# Register your models here.
-
-admin.site.register(Post)
+#注册模型
+admin.site.register(User)
+admin.site.register(Case)
